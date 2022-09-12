@@ -1,3 +1,13 @@
-body {
-    background-color: aqua;
+.logo{
+    background-color: #4EA0FF;
+    height: 65px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+#scritta{
+    background-image: url("img/pattern.png");
+    background-size: cover;
+    height: 30px;
 }
