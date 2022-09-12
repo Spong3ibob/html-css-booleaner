@@ -33,3 +33,28 @@ span{
     background-color: #B1E5F2;
     height: 50px;
 }
+#info{
+    color: #808080;
+}
+#immagine-finale1{
+    background-image: url(../img/monitor.jpg);
+    height: 175px;
+    width: 285px;
+    background-repeat: no-repeat;
+}
+#testo1{
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+#immagine-finale2{
+    background-image: url(../img/graph.jpg);
+    height: 175px;
+    width: 285px;
+    background-repeat: no-repeat;
+}
+#testo2{
+    text-align: center;
+    color: white;
+    font-size: large;
+}
