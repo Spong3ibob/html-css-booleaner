@@ -2,10 +2,7 @@ header{
     height: 70px;
     background-color: #4EA0FF;
     height: 65px;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
+
 }
 #pattern{
     height: 50px;
@@ -19,4 +16,8 @@ header{
 }
 #blu{
     color: #B1E5F2;
+}
+img{
+    height: 100px;
+    margin-top: 90px;
 }
