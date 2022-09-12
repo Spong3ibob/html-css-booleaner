@@ -2,10 +2,7 @@ header{
     height: 70px;
     background-color: #4EA0FF;
     height: 65px;
-
-}
-#pattern{
-    height: 50px;
+    background-image: url("img/pattern.png");
 }
 #scritta{
     height: 35px;
@@ -19,5 +16,5 @@ header{
 }
 img{
     height: 100px;
-    margin-top: 100px;
+    
 }
