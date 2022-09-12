@@ -2,19 +2,20 @@ header{
     height: 70px;
     background-color: #4EA0FF;
     height: 65px;
-    background-image: url("img/pattern.png");
+    background-image: url("../css/img/pattern.png");
 }
 #scritta{
     height: 35px;
 }
 #sottotitolo{
     color: #808080;
-    font-size: small;
 }
 #blu{
     color: #B1E5F2;
 }
 img{
-    height: 100px;
-    
+    height: 100px; 
+}
+#descrizione-foto{
+    font-size: smaller;
 }
