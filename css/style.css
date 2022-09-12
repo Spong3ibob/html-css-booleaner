@@ -14,3 +14,10 @@ header{
 b{
     color: #4EA0FF;
 }
+img{
+    height: 315px;
+    margin-top: 150px;
+}
+#descrizione-foto{
+    font-size: smaller;
+}
