@@ -24,3 +24,12 @@ img{
 span{
     background-color: yellow;
 }
+#titolo-tabella{
+    background-color: #20A9E5;
+    height: 16px;
+    color: white;
+}
+.cella-dispari{
+    background-color: #B1E5F2;
+    height: 50px;
+}
